@@ -1,3 +1,94 @@
+✨ **Excited to share my latest project**! ✨
+
+
+   **Project Name: Customer-Churn-Prediction SQL Project using Actions/Operations**
+   
+🚀 **Problem Statement**
+	
+Customer churn (when customers stop using a service) is a critical challenge for businesses. 
+Predicting churn early helps companies retain customers and reduce revenue loss. Using SQL, 
+we will design, query, and analyze a customer churn dataset to extract valuable insights.
+
+🚀 **Solution**
+
+We will:
+- Design a normalized database for churn data.
+- Perform SQL queries (SELECT, WHERE, GROUP BY, JOINS, VIEWS, etc.) for churn insights.
+- Apply DBMS concepts (Tables, Views, Relationships).
+- Showcase practical tasks like customer segmentation, churn prediction queries, and retention strategies.
+
+🚀 **concepts used in this project**.
+
+-	Define data, data table, database, DBMS
+-	Difference between sql and mysql
+-	Importance of sql
+-	Types of db
+-	Difference between dbms and rdbms
+-	Difference between Table, view, Relationship
+-	Sql commands 
+-	Difference between drop and truncate.
+
+
+🚀 **Goal**: 
+
+-	Understand churn behavior.
+-	Gain hands-on SQL & DBMS experience.
+-	Show employers your ability to work on real datasets.
+
+🚀 **Tech stack**: 
+
+-	Database: MySQL
+-	Tools: MySQL Workbench / phpMyAdmin / VS Code (optional)
+-	Dataset: Customer Churn Dataset (Telco style or your own provided dataset)
+
+🚀 **Tech Used**
+
+-	MySQL (DDL, DML, DCL, TCL commands)
+-	Database Normalization
+-	SQL Queries (Joins, Views, Aggregations, Subqueries, Window Functions)
+
+🚀 **Key skills shown**: 
+
+-	Database design & management
+-	Writing optimized SQL queries
+-	Understanding DBMS vs RDBMS
+-	Data cleaning & analysis in SQL
+-	Real-time business problem solving
+
+
+🚀 **What I did in this project**?
+
+-	Designed churn database
+-	Created tables & inserted dataset
+-	Solved real-time queries for churn prediction
+-	Implemented views, relationships, and joins
+-	Compared DROP vs TRUNCATE
+-	Wrote professional SQL documentation
+
+🚀 **What I learnt**?
+
+-	Core DBMS concepts
+-	Difference between SQL & MySQL
+-	Data storage, querying, and management
+-	Importance of views, indexes, and joins in analysis
+-	Optimizing queries for better performance
+
+🚀 **What is impact**?
+
+-	Businesses can identify at-risk customers
+-	Help reduce churn rate & improve customer retention
+-	Adds real-world SQL project to resume for Data Scientist / Analyst jobs
+
+🚀 **Skills Used**
+
+- **#SQL #MySQL #DBMS #RDBMS #DataAnalysis #DatabaseDesign #ChurnPrediction #ETL #Joins #Views #Normalization**
+
+**#CustomerChurnPrediction #ChurnAnalysis #SQL #MySQL #Database #DBMS #RDBMS #DataScience**
+**#DataAnalytics #BusinessIntelligence #DataEngineer #SQLQueries #ETL #DatabaseDesign #Normalization**
+**#DataManagement #SQLProject #DataDriven #ChurnReduction #DataScientist #FresherDataScientist**
+**#SQLPractice #CustomerRetention #CustomerInsights #DataSkills #JobReady**
+
+
 
 
 **#SQL #DataScience #Analytics #CustomerChurn**
